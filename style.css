@@ -1,0 +1,50 @@
+body
+{background: #FFCCFF;
+	color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+
+}
+.intro h1{
+	text-align: center;
+
+    font-size: 30px;
+	font-family: cursive;
+
+}
+h2{ background: #FF33CC;
+	font-family: cursive;
+	font-size: 20px;
+
+}
+
+.summary {
+	background: #FF99FF;
+	
+}
+h3{
+	background: #FF33CC;
+}
+
+.explanation {
+	background: #CC66CC;
+	
+}
+.benefits{
+	background: #FF99FF;
+}
+.design-selection{
+	
+	background: #CC66CC;
+}
+.zen-resources{
+	margin-right: 40%;
+	margin-left: 40%;
+	background: #FF99FF;
+}
+a{
+text-decoration: none;
+color: #646464;
+}
